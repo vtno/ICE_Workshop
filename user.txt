@@ -4,5 +4,6 @@ Class User {
   profile_pic: image.jpg
 }
 Class Post {
-  text: t
+  string: text
+  photo: image.jpg
 }
