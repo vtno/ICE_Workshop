@@ -5,4 +5,5 @@ Class User {
 }
 Class Post {
   text: t
+  video: vid.mp4
 }
