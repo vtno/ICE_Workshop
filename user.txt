@@ -5,5 +5,5 @@ Class User {
 }
 Class Post {
   string: text
-  photo: image.jpg
+  photo: image2.jpg
 }
