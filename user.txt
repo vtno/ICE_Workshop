@@ -3,3 +3,6 @@ Class User {
   password: p
   profile_pic: image.jpg
 }
+Class Post {
+  text: t
+}
